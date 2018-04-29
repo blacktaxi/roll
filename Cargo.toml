@@ -1,0 +1,8 @@
+[package]
+name = "roll"
+version = "0.1.0"
+authors = ["Sergey Yavnyi <blacktaxi@gmail.com>"]
+
+[dependencies]
+regex = "0.2.10"
+rand = "0.4"
